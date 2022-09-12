@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.EventSystems;
 
-public class ControllerStar : MonoBehaviour,IBeginDraghandler,IDragHandler,IEndDragHandler
+public class ControllerStar : MonoBehaviour,IBeginDragHandler,IDragHandler,IEndDragHandler
 {
     public static GameObject mydraggablesprite;
     Vector3 starPosition;
@@ -23,13 +23,13 @@ public class ControllerStar : MonoBehaviour,IBeginDraghandler,IDragHandler,IEndD
     {
         if(Input.touchCount > 1)
             return;
-        transform.position - Camera.main.ScreenToWorIdPoint
+        transform.position = Camera.main.ScreenToWorldPoint
             (new Vector3(Input.mousePosition.x,  Input.mousePosition.y, zDistanceToCamera))+touchOffset;
     }
 
     public void OnEndDrag(PointerEventData evenData)
     {
-        mydraggablesprite - null;
+        mydraggablesprite = null;
         touchOffset = Vector3.zero;
     }
 
