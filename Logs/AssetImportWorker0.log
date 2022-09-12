@@ -1,0 +1,190 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.1f1 (77a89f25062f) revision 7841951'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19043.1889; Version 2009; 64bit' Language: 'es' Physical Memory: 16191 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+D:\2020.3.1f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+D:/juegoss/Diseno-de-juegos-II
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61250
+Successfully changed project path to: D:/juegoss/Diseno-de-juegos-II
+D:/juegoss/Diseno-de-juegos-II
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 49.73 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.1f1 (77a89f25062f)
+[Subsystems] Discovering subsystems at path D:/2020.3.1f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path D:/juegoss/Diseno-de-juegos-II/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f11)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   30.0.15.1278
+Initialize mono
+Mono path[0] = 'D:/2020.3.1f1/Editor/Data/Managed'
+Mono path[1] = 'D:/2020.3.1f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'D:/2020.3.1f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56036
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: D:/2020.3.1f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: D:/2020.3.1f1/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: D:/2020.3.1f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Register platform support module: D:/2020.3.1f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll
+Register platform support module: D:/2020.3.1f1/Editor/Data/PlaybackEngines/LuminSupport/UnityEditor.Lumin.Extensions.dll
+Registered in 0.002972 seconds.
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 26.87 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.303 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000918 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for Lumin target not found
+Native extension for LinuxStandalone target not found
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.078 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.39 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1117 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 57.4 MB.
+System memory in use after: 57.4 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1562.
+Total: 2.154300 ms (FindLiveObjects: 0.180300 ms CreateObjectMapping: 0.033100 ms MarkObjects: 1.829400 ms  DeleteObjects: 0.109800 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/ControllerStar.cs
+  artifactKey: Guid(3ff2f440e2fdaa548bc18180520e5862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ControllerStar.cs using Guid(3ff2f440e2fdaa548bc18180520e5862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b7870488fe332f8a006954026217ce2') in 0.154707 seconds
+  Import took 0.236903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 975.376408 seconds.
+  path: Assets/ControllerStar.cs
+  artifactKey: Guid(3ff2f440e2fdaa548bc18180520e5862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ControllerStar.cs using Guid(3ff2f440e2fdaa548bc18180520e5862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1eead7221fdf41e8e4d1b69cf2994065') in 0.021567 seconds
+  Import took 0.024716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 341.522220 seconds.
+  path: Assets/ControllerStar.cs
+  artifactKey: Guid(3ff2f440e2fdaa548bc18180520e5862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ControllerStar.cs using Guid(3ff2f440e2fdaa548bc18180520e5862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19e9acb08ddf6403dc446313e2aa00c6') in 0.011950 seconds
+  Import took 0.017747 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.074927 seconds.
+  path: Assets/ControllerStar.cs
+  artifactKey: Guid(3ff2f440e2fdaa548bc18180520e5862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ControllerStar.cs using Guid(3ff2f440e2fdaa548bc18180520e5862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19e9acb08ddf6403dc446313e2aa00c6') in 0.006816 seconds
+  Import took 0.043216 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 285.435790 seconds.
+  path: Assets/ControllerStar.cs
+  artifactKey: Guid(3ff2f440e2fdaa548bc18180520e5862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ControllerStar.cs using Guid(3ff2f440e2fdaa548bc18180520e5862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38b270b586cb6ade4693ea18031c05ff') in 0.035956 seconds
+  Import took 0.039232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 116.307491 seconds.
+  path: Assets/ControllerStar.cs
+  artifactKey: Guid(3ff2f440e2fdaa548bc18180520e5862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ControllerStar.cs using Guid(3ff2f440e2fdaa548bc18180520e5862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c78ba0df0c4e8848e888c2ee1359f0d') in 0.009545 seconds
+  Import took 0.015602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 187.220208 seconds.
+  path: Assets/ControllerStar.cs
+  artifactKey: Guid(3ff2f440e2fdaa548bc18180520e5862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ControllerStar.cs using Guid(3ff2f440e2fdaa548bc18180520e5862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4553934c5961307b58afdb1d33dcbc0a') in 0.007102 seconds
+  Import took 0.011052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1488.433334 seconds.
+  path: Assets/ControllerStar.cs
+  artifactKey: Guid(3ff2f440e2fdaa548bc18180520e5862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ControllerStar.cs using Guid(3ff2f440e2fdaa548bc18180520e5862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '367429dc6db7fdd167a393afdbda8789') in 0.140440 seconds
+  Import took 0.143138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 320.558829 seconds.
+  path: Assets/ControllerStar.cs
+  artifactKey: Guid(3ff2f440e2fdaa548bc18180520e5862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ControllerStar.cs using Guid(3ff2f440e2fdaa548bc18180520e5862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f02fb69ada58d4fdcb7b30880a11095') in 0.041916 seconds
+  Import took 0.045378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 132.182008 seconds.
+  path: Assets/ControllerStar.cs
+  artifactKey: Guid(3ff2f440e2fdaa548bc18180520e5862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ControllerStar.cs using Guid(3ff2f440e2fdaa548bc18180520e5862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16840582e95e88a7dcb9d8bdb76a5ce6') in 0.042447 seconds
+  Import took 0.045874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2382.702928 seconds.
+  path: Assets/ControllerStar.cs
+  artifactKey: Guid(3ff2f440e2fdaa548bc18180520e5862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ControllerStar.cs using Guid(3ff2f440e2fdaa548bc18180520e5862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '947383fafc456801c93901cda472f15b') in 0.006901 seconds
+  Import took 0.024093 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.895482 seconds.
+  path: Assets/ControllerStar.cs
+  artifactKey: Guid(3ff2f440e2fdaa548bc18180520e5862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ControllerStar.cs using Guid(3ff2f440e2fdaa548bc18180520e5862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edd9d83645a0f329dffaaa7db69898de') in 0.044470 seconds
+  Import took 0.048620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.426467 seconds.
+  path: Assets/ControllerStar.cs
+  artifactKey: Guid(3ff2f440e2fdaa548bc18180520e5862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/ControllerStar.cs using Guid(3ff2f440e2fdaa548bc18180520e5862) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc8c03144d57885b7fe5923862c737a1') in 0.008651 seconds
+  Import took 0.015170 seconds .
+
